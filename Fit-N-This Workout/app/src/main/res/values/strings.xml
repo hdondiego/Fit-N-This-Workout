@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Fit-N-This Workout</string>
+
+    <string-array name="themeColorNames">
+        <item>Red</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string-array name="themeColorValues">
+        <item>red</item>
+        <item>blue</item>
+    </string-array>
+
+    <string name="title">Settings</string>
+    <string name="create_workout">Create Workout</string>
+    <string name="enter_workout_name_prompt">Enter a Workout name:</string>
+    <string name="sign_out">Sign out</string>
+    <string name="enter_exercise_name_prompt">Enter an Exercise name:</string>
+    <string name="add_exercise">Add Exercise</string>
+    <string name="weight_textView">Weight (lbs.):</string>
+    <string name="weight">Weight</string>
+    <string name="repetitions_textView">Number of Repetitions:</string>
+    <string name="reps">Reps</string>
+    <string name="add_set">Add Set</string>
+    <string name="clear_textfields">Clear Textfields</string>
+</resources>

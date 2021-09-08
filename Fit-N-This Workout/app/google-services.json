@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "665403104988",
+    "firebase_url": "https://fit-n-this-workout.firebaseio.com",
+    "project_id": "fit-n-this-workout",
+    "storage_bucket": "fit-n-this-workout.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665403104988:android:ef97b0779507d7b1",
+        "android_client_info": {
+          "package_name": "com.example.fit_n_thisworkout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665403104988-h8bu0ok8u33548l4abks7jbmfqskuabq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fit_n_thisworkout",
+            "certificate_hash": "5ef0d29671d0e544f66c1e4871b92910bed61c5e"
+          }
+        },
+        {
+          "client_id": "665403104988-6qhm9jofo43v4l8qdkabh1on16noib2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp9xC4VTDns2CK4GpOdsgiv840Z7dtjgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665403104988-6qhm9jofo43v4l8qdkabh1on16noib2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
